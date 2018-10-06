@@ -22,8 +22,8 @@
 字典来源
 ------------
 
-1. MMSEG 中文分词字典来源于 `chenlb/mmseg4j-from-googlecode <https://github.com/chenlb/mmseg4j-from-googlecode>` 。
-2. HMM 中文分词算法所使用到的模型数据来源于 `yanyiwu/cppjieba <https://github.com/yanyiwu/cppjieba>` 。
+1. MMSEG 中文分词字典来源于 `chenlb/mmseg4j-from-googlecode <https://github.com/chenlb/mmseg4j-from-googlecode>`_ 。
+2. HMM 中文分词算法所使用到的模型数据来源于 `yanyiwu/cppjieba <https://github.com/yanyiwu/cppjieba>`_ 。
 
 
 其它相关项目
