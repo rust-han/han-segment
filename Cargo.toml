@@ -1,0 +1,11 @@
+[package]
+name = "han-segment"
+version = "0.1.0"
+authors = ["Luozijun <luozijun.assistant@gmail.com>"]
+
+
+[dependencies]
+log = "0.4"
+env_logger = "0.5"
+
+
