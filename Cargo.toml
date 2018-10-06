@@ -8,4 +8,7 @@ authors = ["Luozijun <luozijun.assistant@gmail.com>"]
 log = "0.4"
 env_logger = "0.5"
 
-
+[dev-dependencies]
+unic-segment = "0.7.0"
+unic-ucd-common = "0.7.0"
+unic-ucd-segment = "0.7.0"
