@@ -29,8 +29,8 @@
 其它相关项目
 ------------
 
-*   `fxsjy/jieba <https://github.com/fxsjy/jieba>` , 结巴中文分词
-*   `chenlb/mmseg4j-from-googlecode <https://github.com/chenlb/mmseg4j-from-googlecode>` , MMSEG 中文分词 (Java)
+*   `fxsjy/jieba <https://github.com/fxsjy/jieba>`_ , 结巴中文分词
+*   `chenlb/mmseg4j-from-googlecode <https://github.com/chenlb/mmseg4j-from-googlecode>`_ , MMSEG 中文分词 (Java)
 *   `archerhu/scel2mmseg <https://github.com/archerhu/scel2mmseg>`_ , 一个搜狗细胞词库转换为MMSEG词库的工具
 *   `baidu/lac <https://github.com/baidu/lac>`_ , 中文词法分析（LAC）
 *   `baidu/AnyQ <https://github.com/baidu/AnyQ>` , 百度FAQ自动问答系统
